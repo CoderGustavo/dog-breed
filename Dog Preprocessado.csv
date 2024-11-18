@@ -1,0 +1,160 @@
+,Origin,Friendly Rating (1-10),Life Span,Size,Grooming Needs,Exercise Requirements (hrs/day),Good with Children,Intelligence Rating (1-10),Shedding Level,Health Issues Risk,Average Weight (kg),Training Difficulty (1-10)
+0,Germany,7,14,Small,High,1.5,Yes,8,Moderate,Low,4,6
+1,Afghanistan,5,13,Large,Very High,2.0,No,4,High,Moderate,25,8
+2,England,8,12,Medium,High,2.0,Yes,7,Moderate,Low,21,6
+3,Japan,6,11,Large,Moderate,2.0,With Training,7,High,High,45,9
+4,Alaska USA,7,11,Large,High,3.0,Yes,6,Very High,Moderate,36,8
+5,USA,8,11,Large,Low,2.0,Yes,6,Moderate,Moderate,42,7
+6,USA,9,14,Small-Medium,High,2.0,Yes,9,High,Low,12,5
+7,USA,8,12,Medium,Low,2.5,Yes,6,Moderate,Low,31,6
+8,Australia,7,14,Medium,Moderate,2.5,Yes,9,Moderate,Low,15,7
+9,USA,8,14,Medium,High,2.5,Yes,9,High,Moderate,25,7
+10,Australia,7,13,Small,Moderate,1.5,Yes,7,Low,Low,6.5,6
+11,Central Africa,6,13,Small-Medium,Low,2.0,No,6,Low,Low,10,9
+12,France,8,11,Medium,Low,1.0,Yes,5,Moderate,High,24,7
+13,England,9,13,Small-Medium,Low,2.0,Yes,7,Moderate,Moderate,10,7
+14,Scotland,8,13,Medium,Very High,2.0,Yes,8,High,Low,22,6
+15,Switzerland,9,8,Large,High,1.5,Yes,7,High,High,43,5
+16,Mediterranean,9,13,Small,Very High,1.0,Yes,8,Low,Low,4,5
+17,Russia,7,11,Large,High,2.0,Yes,8,Moderate,Moderate,50,8
+18,Belgium,7,11,Large,Moderate,2.0,Yes,6,Moderate,High,43,8
+19,UK,8,13,Medium,High,3.0,Yes,10,Moderate,Low,17,6
+20,UK,8,13,Small,Moderate,1.5,Yes,7,Moderate,Low,6,6
+21,Russia,6,11,Large,High,2.0,No,6,Moderate,Low,37,7
+22,USA,9,12,Small,Low,1.5,Yes,8,Low,Moderate,9,5
+23,Belgium,7,11,Large,Very High,2.0,Yes,8,High,Moderate,34,7
+24,Germany,9,11,Large,Low,2.0,Yes,7,Moderate,Moderate,28,6
+25,France,7,12,Large,High,2.0,Yes,8,Moderate,Low,35,7
+26,France,8,13,Medium,Moderate,2.5,Yes,8,Moderate,Low,17,5
+27,Belgium,7,13,Small,High,1.5,Yes,8,Moderate,Moderate,4,7
+28,England,7,12,Medium,Low,2.0,With Training,7,Low,Moderate,27,7
+29,England,6,9,Large,Low,1.5,With Training,6,Moderate,High,52,7
+30,Scotland,8,14,Small,Moderate,1.5,Yes,7,Moderate,Low,7,6
+31,Israel,6,13,Medium,Low,2.0,With Training,8,Moderate,Low,21,8
+32,Italy,6,11,Large,Low,2.0,With Training,7,Low,Moderate,45,9
+33,Wales,8,13,Small,Moderate,2.0,Yes,8,High,Moderate,13,6
+34,UK,10,11,Small,Moderate,1.0,Yes,6,Moderate,High,6,4
+35,USA,7,11,Large,Moderate,2.5,Yes,7,Moderate,Low,30,7
+36,Mexico,6,16,Small,Low,1.0,No,7,Low,Moderate,2,7
+37,China,7,14,Small,High,1.0,Yes,8,Low,Low,3,6
+38,China,6,10,Medium,Low,1.5,With Training,6,Moderate,High,22,8
+39,China,5,10,Medium,High,1.5,No,5,High,High,26,9
+40,England,7,11,Medium,Moderate,1.5,Yes,6,High,Moderate,31,6
+41,England,9,13,Small-Medium,High,1.5,Yes,7,High,Moderate,12,5
+42,Scotland,9,13,Medium,High,2.0,Yes,8,High,Moderate,24,5
+43,England,7,12,Large,Moderate,2.0,Yes,7,Low,Low,32,6
+44,Germany,7,14,Small,Low,1.5,With Training,7,Moderate,High,10,7
+45,Croatia,8,12,Medium,Low,2.5,Yes,7,Moderate,High,24,7
+46,Scotland,7,13,Small,Moderate,1.5,Yes,7,Low,Low,8,7
+47,Germany,8,11,Large,Low,2.5,With Training,9,Low,Moderate,35,7
+48,England,7,9,Medium,Low,1.0,Yes,6,Moderate,High,20,7
+49,England,8,12,Medium,High,1.5,Yes,7,Moderate,Moderate,14,5
+50,England,7,12,Medium,Low,2.5,Yes,6,Moderate,Low,29,7
+51,England,8,12,Medium,High,2.0,Yes,7,Moderate,Moderate,26,6
+52,England,9,13,Medium,High,2.0,Yes,7,Moderate,Moderate,20,6
+53,England,8,11,Small,High,1.0,Yes,7,Moderate,Moderate,5,6
+54,Switzerland,7,12,Medium,Low,2.5,Yes,8,Moderate,Low,27,7
+55,England,7,12,Medium,High,2.0,Yes,7,Moderate,Low,18,6
+56,Finland,8,12,Medium,High,2.0,Yes,7,High,Low,20,6
+57,Finland,7,13,Medium,Moderate,2.0,Yes,8,Moderate,Low,15,7
+58,England,9,11,Large,Moderate,2.5,Yes,8,Moderate,Moderate,32,5
+59,France,8,11,Small,Low,1.0,Yes,7,Low,High,11,6
+60,Germany,7,13,Medium,Low,2.0,With Training,8,Moderate,Low,13,7
+61,Germany,8,11,Large,Moderate,2.5,With Training,9,High,Moderate,31,6
+62,Germany,8,13,Large,Low,2.5,Yes,8,Moderate,Low,26,6
+63,Germany,7,13,Large,Moderate,2.5,Yes,8,Moderate,Low,27,7
+64,Germany,7,13,Large,High,2.0,With Training,8,Low,Moderate,38,8
+65,Scotland,10,11,Large,High,2.0,Yes,8,High,Moderate,29,4
+66,Scotland,8,11,Large,High,2.0,Yes,7,Moderate,Moderate,26,6
+67,Germany,8,8,Giant,Low,2.0,Yes,6,Moderate,High,67,6
+68,France,7,11,Large,High,1.5,Yes,6,High,Moderate,46,8
+69,Switzerland,8,10,Large,Low,2.0,Yes,7,Moderate,Moderate,61,7
+70,Egypt,7,11,Large,Low,2.0,Yes,7,Low,Low,33,6
+71,England,8,12,Medium,Low,2.0,Yes,6,Moderate,Low,25,6
+72,Cuba,9,14,Small,High,1.5,Yes,8,Low,Low,5,5
+73,Spain,7,13,Medium,Low,2.0,Yes,7,Low,Low,22,7
+74,Iceland,8,12,Medium,Moderate,2.0,Yes,7,Moderate,Low,14,6
+75,Ireland,8,12,Large,High,2.5,Yes,7,Moderate,Moderate,27,6
+76,Ireland,8,13,Large,High,2.5,Yes,7,High,Moderate,29,6
+77,Ireland,7,13,Medium,Moderate,1.5,Yes,7,Low,Low,11,7
+78,Ireland,8,11,Large,High,2.0,Yes,7,Low,Low,24,6
+79,Ireland,7,7,Giant,Moderate,2.0,Yes,6,Moderate,High,54,6
+80,Italy,7,13,Small,Low,1.5,No,7,Low,Moderate,4,7
+81,Japan,7,11,Small,Moderate,1.0,Yes,7,Moderate,Low,3,6
+82,Japan,8,13,Small,High,1.5,Yes,8,High,Low,6,6
+83,Netherlands,8,13,Medium,High,1.5,Yes,8,High,Low,16,6
+84,Ireland,7,13,Medium,High,1.5,Yes,7,Low,Low,16,7
+85,Hungary,6,11,Large,Very High,2.0,With Training,6,Low,Low,40,8
+86,Hungary,6,11,Large,Moderate,2.0,With Training,7,Moderate,Moderate,42,8
+87,Canada,10,11,Large,Moderate,2.0,Yes,8,High,Moderate,30,4
+88,England,7,13,Small,Moderate,1.5,Yes,7,Low,Low,7,7
+89,Germany,8,9,Giant,High,2.0,Yes,7,High,High,61,8
+90,Tibet,6,13,Small,Very High,1.0,No,7,Low,Low,6,8
+91,France,8,14,Small,High,1.5,Yes,8,Low,Low,6,6
+92,Malta,8,13,Small,Very High,1.0,No,7,Low,Low,2.5,6
+93,England,7,15,Small-Medium,Low,1.5,With Training,8,Moderate,Low,7,7
+94,England,6,9,Giant,Low,1.5,Yes,6,Moderate,High,78,7
+95,Germany,6,13,Small,Low,1.5,No,7,Low,Low,4,8
+96,Germany,8,12,Small,High,1.5,Yes,8,Moderate,Low,8,6
+97,Italy,6,8,Large,Moderate,1.0,Yes,5,Moderate,High,70,8
+98,Canada,9,9,Giant,High,2.0,Yes,7,Moderate,Moderate,61,7
+99,England,8,14,Small,Low,1.5,Yes,7,Low,Low,5,6
+100,Norway,8,12,Medium,Moderate,2.0,Yes,7,Moderate,Low,12,6
+101,Norway,7,12,Medium,Moderate,2.0,Yes,7,Moderate,Moderate,23,7
+102,Norway,7,12,Small,High,2.0,Yes,7,Moderate,High,8,7
+103,England,8,10,Large,Very High,2.0,Yes,6,High,Moderate,32,6
+104,England,7,10,Large,Very High,2.5,Yes,6,High,Moderate,37,7
+105,France,9,13,Small,Moderate,1.0,Yes,8,Low,Low,3,5
+106,China,6,12,Small,Very High,1.0,With Training,5,Moderate,High,5,7
+107,Wales,9,12,Small,Moderate,2.0,Yes,8,Moderate,Moderate,12,5
+108,France,7,12,Small,High,2.0,Yes,6,High,Moderate,15,7
+109,Malta,7,12,Medium,Moderate,2.0,Yes,8,Moderate,Low,20,7
+110,England,8,12,Medium,Moderate,2.5,Yes,7,Moderate,Moderate,25,6
+111,Germany,8,12,Small,High,1.0,Yes,7,High,Moderate,3,7
+112,France,8,15,Small,Very High,1.5,Yes,8,Low,Low,7,6
+113,France,9,12,Large,Very High,2.0,Yes,8,Moderate,Moderate,22,5
+114,France,9,15,Toy,Very High,1.0,Yes,8,Low,Low,4,5
+115,Portugal,7,12,Medium,Moderate,2.0,Yes,8,Moderate,Low,15,8
+116,Portugal,8,11,Medium,High,2.0,Yes,8,Moderate,Moderate,18,6
+117,Germany,7,12,Medium,Moderate,2.5,Yes,8,Moderate,Low,23,7
+118,China,8,12,Small,Moderate,1.0,Yes,7,Moderate,High,7,6
+119,France,7,10,Giant,High,2.0,Yes,6,High,High,54,7
+120,USA,7,15,Small-Medium,Low,2.0,Yes,7,Moderate,Moderate,5,7
+121,USA,8,12,Medium,Moderate,2.0,Yes,6,Moderate,Low,25,7
+122,Africa,6,11,Large,Moderate,2.5,With Training,8,Moderate,Moderate,36,7
+123,Germany,7,9,Large,Moderate,2.0,With Training,8,High,High,40,8
+124,Switzerland,9,8,Giant,High,2.0,Yes,6,High,Moderate,68,7
+125,Middle East,6,12,Medium,Moderate,2.5,No,7,Moderate,Moderate,22,7
+126,Siberia,9,12,Medium,High,2.0,Yes,7,High,Moderate,21,7
+127,Belgium,7,13,Small,Moderate,2.0,No,7,Moderate,Moderate,7,7
+128,Scotland,6,8,Large,Moderate,2.0,Yes,6,Moderate,Moderate,41,7
+129,Scotland,7,12,Small,Moderate,1.5,Yes,6,Moderate,High,9,7
+130,Scotland,9,12,Medium,High,2.0,Yes,8,High,Moderate,11,5
+131,Japan,7,13,Small,Moderate,2.0,No,7,Moderate,Moderate,9,7
+132,China,8,14,Small,Very High,1.0,Yes,6,Moderate,Moderate,4,7
+133,Siberia,8,12,Medium,Moderate,2.5,Yes,7,Moderate,Moderate,21,7
+134,Australia,7,13,Small,High,1.5,Yes,7,Moderate,Low,4,7
+135,Scotland,7,13,Small,Moderate,1.5,No,6,Moderate,Moderate,8,7
+136,North Africa,6,12,Medium,Low,2.5,With Training,7,Low,Moderate,18,7
+137,England,7,13,Small,Low,2.0,Yes,7,Moderate,Moderate,7,7
+138,Ireland,8,12,Medium,High,2.0,Yes,7,Moderate,Moderate,12,6
+139,Spain,7,12,Medium,Very High,2.0,Yes,8,Moderate,Moderate,15,6
+140,Italy,7,12,Large,High,2.0,Yes,7,Moderate,Moderate,32,7
+141,England,7,12,Medium,Low,2.0,Yes,7,Moderate,High,16,7
+142,France,9,12,Large,Very High,2.0,Yes,8,Moderate,Moderate,26,5
+143,Germany,7,15,Medium,High,2.0,Yes,7,Moderate,Moderate,14,6
+144,England,7,11,Medium,High,1.5,Yes,6,Moderate,Moderate,18,6
+145,Sweden,8,12,Medium,Moderate,2.0,Yes,8,Moderate,Low,12,7
+146,Thailand,6,12,Medium,Moderate,2.0,With Training,7,Moderate,Moderate,15,7
+147,Tibet,7,10,Large,High,2.0,With Training,6,Moderate,Moderate,45,8
+148,USA,8,15,Toy,Moderate,1.5,Yes,8,Low,Low,2,7
+149,USA,8,12,Medium,Moderate,2.0,Yes,7,Moderate,Moderate,20,7
+150,Wales,8,13,Medium,High,2.0,Yes,7,Moderate,Moderate,16,6
+151,Wales,7,14,Medium,Moderate,1.5,Yes,7,Moderate,Moderate,9,7
+152,Scotland,8,13,Small,Moderate,1.5,Yes,7,Moderate,Moderate,7,7
+153,England,7,13,Medium,Low,2.0,Yes,8,Low,Low,8,6
+154,England,7,14,Small,Moderate,2.0,Yes,7,Moderate,Moderate,8,7
+155,Germany,7,13,Small,Moderate,1.5,With Training,7,Moderate,High,8,7
+156,Netherlands,7,13,Medium,High,2.0,Yes,7,Moderate,Moderate,20,6
+157,Mexico,7,15,Small-Large,Low,2.0,With Training,8,Low,Moderate,25-Jul,6
+158,England,8,13,Toy,High,1.0,Yes,7,Moderate,Moderate,2.5,6
